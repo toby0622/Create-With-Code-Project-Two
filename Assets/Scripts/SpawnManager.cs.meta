@@ -1,11 +1,9 @@
 fileFormatVersion: 2
-guid: 2abe963bd0884c84cbf68064eb6fab95
+guid: 8190fd0516c56304b9173f66e5af813e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - shootbanana: {fileID: 4033821003055553052, guid: 56dcc70cd7f067e468534b98303c161e,
-      type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
